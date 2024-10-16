@@ -1,1 +1,1 @@
-# My-project
+# Predicting credit card approvals
